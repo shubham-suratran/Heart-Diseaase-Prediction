@@ -1,3 +1,3 @@
 # Heart-Disease-Prediction
-#Application link
+#Application link:
 https://heartdisease31.herokuapp.com/
